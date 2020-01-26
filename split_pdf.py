@@ -20,10 +20,10 @@ SLASH = "/" # "\"
 
 # Help menu
 def help_message():
-    print "To split a pdf named `example.pdf` into n pdfs; each pdf is seperate page:"
-    print ""
-    print "Usage: python split_pdf.py example.pdf"
-    print ""
+    print("To split a pdf named `example.pdf` into n pdfs; each pdf is seperate page:")
+    print("")
+    print("Usage: python split_pdf.py example.pdf")
+    print("")
   
 # Test if the user specified any arguments
 if len(sys.argv[1:]) == 0:
@@ -62,7 +62,7 @@ except OSError:
 
 for page in range(pdf_reader.numPages):
     # read each page into a different pdf file
-    print "page: %d" % (page)
+    print("page: %d" % page)
     
     try:
         # Try and open a new pdf

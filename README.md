@@ -6,7 +6,9 @@ Date: 01/25/20
 
 ## Requirements
 
-command line interface for running the program
+Command line interface for running the program
+    
+    App: command prompt
 
 python 3 installed
     

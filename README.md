@@ -8,16 +8,16 @@ Date: 01/25/20
 
 command line interface for running the program
 
-python 2 or 3 installed
+python 3 installed
     
 install pip by running the below command into your command line interface
     
-    curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+    python -m pip install --upgrade pip --user
   
   
 Install PyPDF2 by running the below command into your command line interface
 
-    pip install PyPDF2
+    python -m pip install PyPDF2 --user
     
 
 ## Usage

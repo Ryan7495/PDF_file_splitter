@@ -31,4 +31,4 @@ MacOS:
     
 Windows:
     
-    ./split_pdf.py example.pdf"
+    ./split_pdf.py example.pdf

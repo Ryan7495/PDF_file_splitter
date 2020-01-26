@@ -4,7 +4,7 @@ Splits a pdf file with n pages into n pdfs; each 1 page.
 Author: Ryan Sawchuk
 Date: 01/25/20
 
-## Requirnments
+## Requirements
 
 command line interface for running the program
 

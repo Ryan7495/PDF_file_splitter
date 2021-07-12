@@ -1,7 +1,7 @@
 # PDF File Splitter
 
 Splits a pdf file with n pages into n pdfs; each 1 page.
-Author: Ryan Sawchuk
+Author: Ryan
 Date: 01/25/20
 
 ## Requirements
